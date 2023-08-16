@@ -47,7 +47,6 @@ export const CN_MASKS: BuiltinMask[] = [
     createdAt: 1688899480510,
   },
   {
-    id: "Y68SivxASBKh0-jR8Dp8R",
     avatar: "gpt-bot",
     name: "AI二次元女友",
     context: [{
