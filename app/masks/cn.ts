@@ -47,11 +47,11 @@ export const CN_MASKS: BuiltinMask[] = [
     createdAt: 1688899480510,
   },
   {
-    "avatar": "gpt-bot",
+    "avatar": "",
     "name": "脏话生成器",
     "context": [
       {
-        "id": "PahVhYwybsNDfCRjf_Jg_",
+        "id": "zhsc",
         date: "",
         role: "system",
         content:
@@ -59,7 +59,7 @@ export const CN_MASKS: BuiltinMask[] = [
       }],
     syncGlobalConfig: true,
     modelConfig: {
-      model: "gpt-3.5-turbo-0301",
+      model: "gpt-3.5-turbo",
       temperature: 1,
       max_tokens: 2000,
       presence_penalty: 0,
